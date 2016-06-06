@@ -1,7 +1,12 @@
-h1 {
-  color: #1abc9c;
+body {
+  background: #1abc9c;
+  text-align: center;
 }
 
-h2 {
-  color: red;
+h1 {
+  color: #fff;
+}
+
+p {
+  color: #333;
 }
